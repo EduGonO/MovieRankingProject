@@ -1,0 +1,77 @@
+h1{
+  margin-left: auto;
+  margin-right: auto;
+	text-align: center;
+	font-size: 40;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+	text-align: center;
+	font-size: 30;
+}
+
+
+body {
+	background-color: rgb(54,57,70);
+  color: white;
+	font-family: Avenir;
+}
+
+div {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+p {
+  margin-left: auto;
+  margin-right: auto;
+	font: 40;
+}
+
+div#main{
+  background-color: rgb(54,57,70);
+  height: 520px;
+  width: 710px;
+  margin: auto;
+}
+
+img#Poster {
+  height: 500px;
+  width: 330px;
+}
+
+.competiton {
+	float: left;
+}
+
+.poster {
+background-color: rgb(54,57,70);
+  float: left;
+  width: 330px;
+  height:500px;
+  float: center;
+  margin: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+p.names {
+	color: red;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 35px;
+	float: left;
+}
+
+
+
+div.hover {
+  border: 5px solid;
+  border-color: #c04360;
+  color: #c04360;
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "Title": "The Shawshank Redemption",
+        "Points": 0,
+        "Poster": "posters\/TheShawshankRedemption.jpg"
+    },
+    {
+        "Title": "The Dark Knight",
+        "Points": 0,
+        "Poster": "posters\/TheDarkKnight.jpg"
+    },
+    {
+        "Title": "12 Angry Men",
+        "Points": 0,
+        "Poster": "posters\/12AngryMen.jpg"
+    },
+    {
+        "Title": "The Godfather",
+        "Points": 0,
+        "Poster": "posters\/TheGodfather.jpg"
+    },
+    {
+        "Title": "Fight Club",
+        "Points": 0,
+        "Poster": "posters\/FightClub.jpg"
+    },
+    {
+        "Title": "Pulp Fiction",
+        "Points": 0,
+        "Poster": "posters\/PulpFiction.jpg"
+    },
+    {
+        "Title": "Inception",
+        "Points": 0,
+        "Poster": "posters\/Inception.jpg"
+    },
+    {
+        "Title": "Django Unchained",
+        "Points": 0,
+        "Poster": "posters\/DjangoUnchained.jpg"
+    },
+    {
+        "Title": "Lord Of The Rings",
+        "Points": 0,
+        "Poster": "posters\/LordOfTheRings.jpg"
+    },
+    {
+        "Title": "Forrest Gump",
+        "Points": 0,
+        "Poster": "posters\/ForrestGump.jpg"
+    },
+    {
+        "Title": "Inglorious Basterds",
+        "Points": 0,
+        "Poster": "posters\/IngloriousBasterds.jpg"
+    },
+    {
+        "Title": "The Martian",
+        "Points": 0,
+        "Poster": "posters\/TheMartian.jpg"
+    },
+    {
+        "Title": "The Big Short",
+        "Points": 0,
+        "Poster": "posters\/TheBigShort.jpg"
+    },
+    {
+        "Title": "Baby Driver",
+        "Points": 0,
+        "Poster": "posters\/BabyDriver.jpg"
+    },
+    {
+        "Title": "Catch Me If You Can",
+        "Points": 0,
+        "Poster": "posters\/CatchMeIfYouCan.jpg"
+    },
+    {
+        "Title": "Back To The Future",
+        "Points": 0,
+        "Poster": "posters\/BackToTheFuture.jpg"
+    },
+    {
+        "Title": "Roma",
+        "Points": 0,
+        "Poster": "posters\/Roma.jpg"
+    },
+    {
+        "Title": "Moonlight",
+        "Points": 0,
+        "Poster": "posters\/Moonlight.jpg"
+    },
+    {
+        "Title": "The Wolf Of Wall Street",
+        "Points": 0,
+        "Poster": "posters\/TheWolfOfWallStreet.jpg"
+    },
+    {
+        "Title": "The Revenant",
+        "Points": 0,
+        "Poster": "posters\/TheRevenant.jpg"
+    },
+    {
+        "Title": "Gravity",
+        "Points": 0,
+        "Poster": "posters\/Gravity.jpg"
+    },
+    {
+        "Title": "La La Land",
+        "Points": 0,
+        "Poster": "posters\/LaLaLand.jpg"
+    },
+    {
+        "Title": "The Shape of Water",
+        "Points": 0,
+        "Poster": "posters\/TheShapeofWater.jpg"
+    },
+    {
+        "Title": "Birdman",
+        "Points": 0,
+        "Poster": "posters\/Birdman.jpg"
+    },
+    {
+        "Title": "Avengers Endgame",
+        "Points": 0,
+        "Poster": "posters\/AvengersEndgame.jpg"
+    },
+    {
+        "Title": "Inside Out",
+        "Points": 0,
+        "Poster": "posters\/InsideOut.jpg"
+    },
+    {
+        "Title": "Good Will Hunting",
+        "Points": 0,
+        "Poster": "posters\/GoodWillHunting.jpg"
+    },
+    {
+        "Title": "The Good The Bad and The Ugly",
+        "Points": 0,
+        "Poster": "posters\/TheGoodTheBadandTheUgly.jpg"
+    },
+    {
+        "Title": "The Departed",
+        "Points": 0,
+        "Poster": "posters\/TheDeparted.jpg"
+    },
+    {
+        "Title": "Get Out",
+        "Points": 0,
+        "Poster": "posters\/GetOut.jpg"
+    }
+]
